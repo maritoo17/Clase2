@@ -1,2 +1,2 @@
 # Clase2
-Student developer pack
+https://github.com/maritoo17/Clase2.git
